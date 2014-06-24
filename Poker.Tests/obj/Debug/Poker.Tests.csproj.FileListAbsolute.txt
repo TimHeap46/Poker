@@ -46,3 +46,5 @@ C:\Dev\Sandpit\Poker\Poker.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
 C:\Dev\Sandpit\Poker\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
 C:\Dev\Sandpit\Poker\Poker.Tests\obj\Debug\Poker.Tests.dll
 C:\Dev\Sandpit\Poker\Poker.Tests\obj\Debug\Poker.Tests.pdb
+C:\Dev\Sandpit\Poker\Poker.Tests\bin\Debug\nunit.framework.dll
+C:\Dev\Sandpit\Poker\Poker.Tests\bin\Debug\nunit.framework.xml
