@@ -10,7 +10,7 @@ namespace Poker.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Message = "index.";
 
             return View();
         }
@@ -24,7 +24,7 @@ namespace Poker.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "my contact details.";
 
             return View();
         }
