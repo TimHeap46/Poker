@@ -26,6 +26,17 @@ namespace Poker.Tests.Controllers
         }
 
         [Test]
+        public void Poker()
+        {
+            //Arrange
+            var controller = new PokerController();
+
+            //Act
+            var result = controller.Poker() as ViewResult;
+            //Assert
+        }
+
+        [Test]
         public void About()
         {
             // Arrange
