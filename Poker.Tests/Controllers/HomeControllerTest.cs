@@ -33,7 +33,9 @@ namespace Poker.Tests.Controllers
 
             //Act
             var result = controller.Poker() as ViewResult;
+            
             //Assert
+            Assert.IsNotNull(result);
         }
 
         [Test]
